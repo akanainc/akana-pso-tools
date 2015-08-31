@@ -1,24 +1,18 @@
-# Akana PSO Tools ![Image of Akana] 
+# Akana PSO Tools 
+![Image of Akana] 
 (https://www.akana.com/img/formerlyLOGO8.png) 
 [Akana.com](http://akana.com)
 
 ## Akana PSO Tools
+The Akana PSO Tools are a set of capabilities that have been created to assist capabilities developed for the API Hooks, API Hooks Integration and Community Manager Integrations.   
 
+They are provided for your use under an Apache 2 license.
+
+If you would like support or enhanced capabilities for these tools, you may contact the Akana Professional Services Organization for information on the support offerings available.  
 
 ## akana.pso.apihooks.extension
-### About the akana.pso.apihooks.extension
-### Pre-Reqs
-- You need Policy Manager v7.2.11 or later
-- You need Community Manager v7.2.4.1 or later
-- you must install the pso extensions custom polices:
-    + unzip the com.akana.pso.apihooks.extensions_7.2.3.zip (available in this repository) into the <Policy Manager Home>/sm70 directory. 
-   + Using the SOA Admin Console, install the following Plug-ins in each PM container:
-        * Akana PSO API Gateway Extensions for API Hooks
-        * Akana PSO Simple Things API
-    + Using the SOA Admin Console, install the following Plug-ins in each ND container:
-        * Akana PSO API Gateway Extension for API Hooks
-    + restart all PM and ND(s)
 
+## akana.pso.apihooks.technology.preview
 ### License
 Copyright 2015 Akana, Inc.
 
