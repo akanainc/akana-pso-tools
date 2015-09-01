@@ -5,8 +5,8 @@
 
 ## Akana PSO Tools - Technology Preview
 
-## Akana APIHooks Technology Preview
-### About the Akana APIHooks Technology Preview
+## About the Akana APIHooks Technology Preview
+
 
 ### Pre-Reqs
 - You need Policy Manager v7.2.11 or later

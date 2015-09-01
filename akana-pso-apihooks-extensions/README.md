@@ -4,8 +4,6 @@
 
 ## Akana PSO Tools - Extensions
 
-
-## akana.pso.apihooks.extensions
 ### About the akana.pso.apihooks.extensions
 ### Pre-Reqs
 - You need Policy Manager v7.2.11 or later
