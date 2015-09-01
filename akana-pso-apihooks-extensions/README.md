@@ -1,4 +1,5 @@
-# Akana PSO Tools ![Image of Akana] 
+# Akana PSO Tools 
+![Image of Akana] 
 (https://www.akana.com/img/formerlyLOGO8.png) 
 [Akana.com](http://akana.com)
 
