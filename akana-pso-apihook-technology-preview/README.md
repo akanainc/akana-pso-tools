@@ -23,12 +23,14 @@
             UNIX 
             [Gateway base dir]/sm70/bin>startup.sh configurator "-Dsilent=true" "-DdeploymentName=Standalone" "-Dproperties=/export/home/username/<property file directory location>\myprops.properties"
         + the myprops.properties path must be the fully qualified path, and the file contnents will look like:
+	```
             container.instance.name=[intance name, e.g. PM]
             credential.username = [administrator login] 
             credential.password = [administrator password] 
             default.host=[instance Host, e.g. localhost] 
             default.port=[instance Port, e.g. 9905]
             wizard.mode=update
+	‘’’
      + restart all PM and ND(s)
 
 
