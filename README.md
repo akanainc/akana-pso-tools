@@ -10,13 +10,16 @@ They are provided for your use under an Apache 2 license.
 
 If you would like support or enhanced capabilities for these tools, you may contact the Akana Professional Services Organization for information on the support offerings available.  
 
-## [akana.pso.apihooks.extension](akana-pso-apihooks-extensions/README.MD)
-The extensions plug-in contains the following capabilities:
-	+ SimpleThings - a light weight store for configurations infromation.
-	+ Variable Pool Policy - Allows you to store variables that can be utitlized by operational scripting policies. 
+## [akana.pso.apihooks.extension](akana-pso-apihooks-extensions)
 
-## [akana.pso.apihooks.technology.preview](akana-pso-apihook-technology-preview/README.MD)
-	+ Operational Scripting Policy enhancement
+The extensions plug-in contains the following capabilities:
+- SimpleThings - a light weight store for configurations infromation.
+- Variable Pool Policy - Allows you to store variables that can be utitlized by operational scripting policies. 
+
+## [akana.pso.apihooks.technology.preview](akana-pso-apihook-technology-preview)
+
+The technology preview plugin contains the following capabilties:
+- Operational Scripting Policy enhancement
 
 
 ### License
