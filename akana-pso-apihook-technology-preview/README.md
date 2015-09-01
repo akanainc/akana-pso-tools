@@ -17,25 +17,26 @@
     + run the configurator in update mode for all the PM and ND instances:
         + To run in configuration mode delete the cache directory of the container instance you are updating.
         + run this command, depending on whether you are running on Windows or Linux:
-            Windows: 
+  
+Windows: 
 
 	```
-            [Gateway base dir]\sm70\bin>startup.bat configurator "-Dsilent=true" 
-"-DdeploymentName=Standalone" 
-"-Dproperties=C:/<property file directory location>/myprops.properties" 
-
-	```
-
-            UNIX :
-
-	```
-            [Gateway base dir]/sm70/bin>startup.sh configurator "-Dsilent=true" 
-"-DdeploymentName=Standalone" 
-"-Dproperties=/export/home/username/<property file directory location>\myprops.properties"
+        [Gateway base dir]\sm70\bin>startup.bat configurator "-Dsilent=true" 
+	"-DdeploymentName=Standalone" 
+	"-Dproperties=C:/<property file directory location>/myprops.properties" 
 
 	```
 
-        + the myprops.properties path must be the fully qualified path, and the file contnents will look like:
+UNIX :
+
+	```
+        [Gateway base dir]/sm70/bin>startup.sh configurator "-Dsilent=true" 
+	"-DdeploymentName=Standalone" 
+	"-Dproperties=/export/home/username/<property file directory location>\myprops.properties"
+
+	```
+
+  + the myprops.properties path must be the fully qualified path, and the file contnents will look like:
 
 
 	```
@@ -48,7 +49,7 @@
 
 	```
 
-     + restart all PM and ND(s)
+ + restart all PM and ND(s)
 
 
 ### License
